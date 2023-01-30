@@ -7,25 +7,25 @@ It adopts HTML smuggling technique, leverages HTML5 and JavaScript to embed enco
 
 You can convert your file to HTML encoded format, with password protected, then use it as email attachment or file download from web.
 
-![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/filesmugglingbuilder2.gif?raw=true)
+![alt text](https://github.com/curry-bean/The-File-Smugglers-/raw/main/image/filesmugglingbuilder2.gif?raw=true)
 
 Download filesmugglingbuilder.html from this repository or try it online https://eddiechu.github.io/filesmugglingbuilder.html
 
 ### Example
 
 ###### 1a. Choose target file `putty.exe`, then generate `putty.exe.html`
-![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen2.PNG?raw=true)
+![alt text](https://github.com/curry-bean/The-File-Smugglers-/raw/main/image/screen2.PNG?raw=true)
 #
 ###### 1b. Open `putty.exe.html`, then retrieve `putty.exe`
 ###### Download putty.exe.html from this repository or try it online https://eddiechu.github.io/putty.exe.html (password is password)
-![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen3.PNG?raw=true)
+![alt text](https://github.com/curry-bean/The-File-Smugglers-/raw/main/image/screen3.PNG?raw=true)
 #
 ###### 2a. Choose target file `Sample Document.docx`, then generate `Sample Document.docx.html`
-![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen4.PNG?raw=true)
+![alt text](https://github.com/curry-bean/The-File-Smugglers-/raw/main/image/screen4.PNG?raw=true)
 #
 ###### 2b. Open `Sample Document.docx.html`, then retrieve `Sample Document.docx`
 ###### Download Sample Document.docx.html from this repository or try it online https://eddiechu.github.io/Sample_Document.docx.html (password is password)
-![alt text](https://github.com/eddiechu/File-Smuggling/raw/main/image/screen5.PNG?raw=true)
+![alt text](https://github.com/curry-bean/The-File-Smugglers-/raw/main/image/screen5.PNG?raw=true)
 
 ### HTML Smuggling Tachnique
 
