@@ -9,7 +9,7 @@ You can convert your file to HTML encoded format, with password protected, then 
 
 ![alt text](https://github.com/curry-bean/The-File-Smugglers-/raw/main/image/filesmugglingbuilder2.gif?raw=true)
 
-Download filesmugglingbuilder.html from this repository or try it online https://eddiechu.github.io/filesmugglingbuilder.html
+Try it online at: https://the-file-smugglers.vercel.app/
 
 ### Example
 
